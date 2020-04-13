@@ -1,0 +1,11 @@
+D:\Kuliah\ITATS\Semester 6\Framework .NET\CRUD Sederhana VB.NET Dengan MySQL\CRUD Sederhana VB.NET Dengan MySQL\bin\Debug\CRUD Sederhana VB.NET Dengan MySQL.exe.config
+D:\Kuliah\ITATS\Semester 6\Framework .NET\CRUD Sederhana VB.NET Dengan MySQL\CRUD Sederhana VB.NET Dengan MySQL\bin\Debug\CRUD Sederhana VB.NET Dengan MySQL.exe
+D:\Kuliah\ITATS\Semester 6\Framework .NET\CRUD Sederhana VB.NET Dengan MySQL\CRUD Sederhana VB.NET Dengan MySQL\bin\Debug\CRUD Sederhana VB.NET Dengan MySQL.pdb
+D:\Kuliah\ITATS\Semester 6\Framework .NET\CRUD Sederhana VB.NET Dengan MySQL\CRUD Sederhana VB.NET Dengan MySQL\bin\Debug\CRUD Sederhana VB.NET Dengan MySQL.xml
+D:\Kuliah\ITATS\Semester 6\Framework .NET\CRUD Sederhana VB.NET Dengan MySQL\CRUD Sederhana VB.NET Dengan MySQL\obj\Debug\CRUD_Sederhana_VB.NET_Dengan_MySQL.Form1.resources
+D:\Kuliah\ITATS\Semester 6\Framework .NET\CRUD Sederhana VB.NET Dengan MySQL\CRUD Sederhana VB.NET Dengan MySQL\obj\Debug\CRUD_Sederhana_VB.NET_Dengan_MySQL.Resources.resources
+D:\Kuliah\ITATS\Semester 6\Framework .NET\CRUD Sederhana VB.NET Dengan MySQL\CRUD Sederhana VB.NET Dengan MySQL\obj\Debug\CRUD Sederhana VB.NET Dengan MySQL.vbproj.GenerateResource.cache
+D:\Kuliah\ITATS\Semester 6\Framework .NET\CRUD Sederhana VB.NET Dengan MySQL\CRUD Sederhana VB.NET Dengan MySQL\obj\Debug\CRUD Sederhana VB.NET Dengan MySQL.vbproj.CoreCompileInputs.cache
+D:\Kuliah\ITATS\Semester 6\Framework .NET\CRUD Sederhana VB.NET Dengan MySQL\CRUD Sederhana VB.NET Dengan MySQL\obj\Debug\CRUD Sederhana VB.NET Dengan MySQL.exe
+D:\Kuliah\ITATS\Semester 6\Framework .NET\CRUD Sederhana VB.NET Dengan MySQL\CRUD Sederhana VB.NET Dengan MySQL\obj\Debug\CRUD Sederhana VB.NET Dengan MySQL.xml
+D:\Kuliah\ITATS\Semester 6\Framework .NET\CRUD Sederhana VB.NET Dengan MySQL\CRUD Sederhana VB.NET Dengan MySQL\obj\Debug\CRUD Sederhana VB.NET Dengan MySQL.pdb
